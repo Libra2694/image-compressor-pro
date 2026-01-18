@@ -65,15 +65,14 @@ image-compressor/
 
 ---
 
-## ▶️ Cara Menjalankan Aplikasi
-
 ## ⬇️ Download (Windows EXE)
 
 Untuk pengguna Windows, tersedia versi **EXE (portable)** yang bisa langsung dijalankan tanpa install Python.
 
 👉 **Download di halaman GitHub Releases:**
+https://github.com/Libra2694/image-compressor-pro/releases
 
-
+## ▶️ Cara Menjalankan Aplikasi (source code)
 ### 🔹 Opsi 1 — Jalankan Langsung (Tanpa Virtual Env)
 
 > Cocok untuk testing cepat
@@ -191,3 +190,4 @@ Bebas digunakan, dimodifikasi, dan didistribusikan.
 ## 🙌 Author
 
 Dibuat untuk kebutuhan kompresi gambar skala besar dengan workflow yang aman dan efisien.
+
