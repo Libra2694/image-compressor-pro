@@ -191,5 +191,3 @@ Bebas digunakan, dimodifikasi, dan didistribusikan.
 ## 🙌 Author
 
 Dibuat untuk kebutuhan kompresi gambar skala besar dengan workflow yang aman dan efisien.
-
-```
